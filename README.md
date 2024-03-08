@@ -14,7 +14,7 @@ A tarefa consistia em criar uma página que refletisse a identidade da empresa d
 4. **Sobre Nós**
 
 ## Visualização em Tempo Real
-Confira [aqui](https://nc-desafios-7-days-of-code-html-css.vercel.app/){:target="_blank"} o resultado desse projeto e explore a landing page interativa.
+Confira [aqui](https://nc-desafios-7-days-of-code-html-css.vercel.app/) o resultado desse projeto e explore a landing page interativa.
 
 ## Como Utilizar o Projeto
 
